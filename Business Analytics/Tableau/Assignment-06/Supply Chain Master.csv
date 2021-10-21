@@ -1,0 +1,301 @@
+﻿Category,Committed,Jan demand,Location,Max,Min,Number of Records,On PO,Onhand,Product Name,SS,Sub- Category,Unit Cost,Unit Price,Concat,On Hand,Order 1,Order
+Furniture,12,6,Alaska,11,17,1,10,25,Bush Mission Pointe Library,5,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryAlaska,13,8,-12
+Furniture,10,34,California,35,10,1,7,41,Bush Mission Pointe Library,1,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryCalifornia,38,37,-3
+Furniture,11,49,Colorado,56,18,1,6,26,Bush Mission Pointe Library,7,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryColorado,61,54,35
+Furniture,9,44,Florida,54,12,1,8,24,Bush Mission Pointe Library,10,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryFlorida,55,45,31
+Furniture,8,30,Georgia,33,20,1,10,35,Bush Mission Pointe Library,3,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryGeorgia,31,28,-4
+Furniture,15,28,Hawaii,29,11,1,9,39,Bush Mission Pointe Library,1,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryHawaii,35,34,-4
+Furniture,8,85,Kentucky,88,10,1,10,38,Bush Mission Pointe Library,3,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryKentucky,86,83,48
+Furniture,15,32,Michigan,36,18,1,5,42,Bush Mission Pointe Library,4,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryMichigan,46,42,4
+Furniture,10,38,Mississippi,47,10,1,6,45,Bush Mission Pointe Library,9,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryMississippi,51,42,6
+Furniture,10,84,Nevada,91,19,1,9,36,Bush Mission Pointe Library,7,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryNevada,92,85,56
+Furniture,8,44,New Jersey,48,19,1,5,46,Bush Mission Pointe Library,4,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryNew Jersey,51,47,5
+Furniture,14,0,New Mexico,2,20,1,6,31,Bush Mission Pointe Library,2,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryNew Mexico,10,8,-21
+Furniture,12,60,New York,70,13,1,5,30,Bush Mission Pointe Library,10,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryNew York,77,67,47
+Furniture,11,74,Texas,83,19,1,10,49,Bush Mission Pointe Library,9,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryTexas,84,75,35
+Furniture,12,61,Washington,70,17,1,6,29,Bush Mission Pointe Library,9,Bookcases,82.13312,102.6664,Bush Mission Pointe LibraryWashington,76,67,47
+Furniture,13,29,Alaska,31,11,1,9,33,High-Back Leather Manager's Chair,2,Chairs,83.1936,103.992,High-Back Leather Manager's ChairAlaska,35,33,2
+Furniture,9,0,Alaska,3,13,1,5,29,Novimex Swivel Fabric Task Chair,3,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairAlaska,7,4,-22
+Furniture,13,78,California,79,17,1,10,50,High-Back Leather Manager's Chair,1,Chairs,83.1936,103.992,High-Back Leather Manager's ChairCalifornia,82,81,32
+Furniture,13,0,California,8,16,1,6,38,Novimex Swivel Fabric Task Chair,8,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairCalifornia,15,7,-23
+Furniture,10,28,Colorado,34,14,1,8,40,High-Back Leather Manager's Chair,6,Chairs,83.1936,103.992,High-Back Leather Manager's ChairColorado,36,30,-4
+Furniture,12,89,Colorado,93,15,1,8,38,Novimex Swivel Fabric Task Chair,4,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairColorado,97,93,59
+Furniture,13,15,Florida,18,13,1,9,39,High-Back Leather Manager's Chair,3,Chairs,83.1936,103.992,High-Back Leather Manager's ChairFlorida,22,19,-17
+Furniture,8,0,Florida,3,12,1,9,47,Novimex Swivel Fabric Task Chair,3,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairFlorida,2,-1,-45
+Furniture,10,25,Georgia,34,15,1,8,27,High-Back Leather Manager's Chair,9,Chairs,83.1936,103.992,High-Back Leather Manager's ChairGeorgia,36,27,9
+Furniture,15,66,Georgia,67,19,1,9,30,Novimex Swivel Fabric Task Chair,1,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairGeorgia,73,72,43
+Furniture,9,18,Hawaii,22,18,1,8,21,High-Back Leather Manager's Chair,4,Chairs,83.1936,103.992,High-Back Leather Manager's ChairHawaii,23,19,2
+Furniture,9,68,Hawaii,73,16,1,5,21,Novimex Swivel Fabric Task Chair,5,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairHawaii,77,72,56
+Furniture,11,5,Kentucky,9,17,1,9,47,High-Back Leather Manager's Chair,4,Chairs,83.1936,103.992,High-Back Leather Manager's ChairKentucky,11,7,-36
+Furniture,8,39,Kentucky,44,11,1,6,30,Novimex Swivel Fabric Task Chair,5,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairKentucky,46,41,16
+Furniture,13,7,Michigan,15,15,1,8,41,High-Back Leather Manager's Chair,8,Chairs,83.1936,103.992,High-Back Leather Manager's ChairMichigan,20,12,-21
+Furniture,12,6,Michigan,14,16,1,8,33,Novimex Swivel Fabric Task Chair,8,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairMichigan,18,10,-15
+Furniture,9,25,Mississippi,30,16,1,5,37,High-Back Leather Manager's Chair,5,Chairs,83.1936,103.992,High-Back Leather Manager's ChairMississippi,34,29,-3
+Furniture,9,0,Mississippi,8,10,1,7,43,Novimex Swivel Fabric Task Chair,8,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairMississippi,10,2,-33
+Furniture,14,29,Nevada,34,10,1,6,50,High-Back Leather Manager's Chair,5,Chairs,83.1936,103.992,High-Back Leather Manager's ChairNevada,42,37,-8
+Furniture,12,25,Nevada,30,15,1,6,49,Novimex Swivel Fabric Task Chair,5,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairNevada,36,31,-13
+Furniture,15,0,New Jersey,5,15,1,6,37,High-Back Leather Manager's Chair,5,Chairs,83.1936,103.992,High-Back Leather Manager's ChairNew Jersey,14,9,-23
+Furniture,9,1,New Jersey,7,17,1,6,48,Novimex Swivel Fabric Task Chair,6,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairNew Jersey,10,4,-38
+Furniture,13,36,New Mexico,40,19,1,6,45,High-Back Leather Manager's Chair,4,Chairs,83.1936,103.992,High-Back Leather Manager's ChairNew Mexico,47,43,2
+Furniture,12,28,New Mexico,32,15,1,10,45,Novimex Swivel Fabric Task Chair,4,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairNew Mexico,34,30,-11
+Furniture,11,13,New York,18,17,1,6,26,High-Back Leather Manager's Chair,5,Chairs,83.1936,103.992,High-Back Leather Manager's ChairNew York,23,18,-3
+Furniture,9,14,New York,20,11,1,5,20,Novimex Swivel Fabric Task Chair,6,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairNew York,24,18,4
+Furniture,14,8,Texas,14,16,1,7,42,High-Back Leather Manager's Chair,6,Chairs,83.1936,103.992,High-Back Leather Manager's ChairTexas,21,15,-21
+Furniture,8,0,Texas,8,17,1,5,47,Novimex Swivel Fabric Task Chair,8,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairTexas,11,3,-36
+Furniture,10,18,Washington,27,19,1,6,44,High-Back Leather Manager's Chair,9,Chairs,83.1936,103.992,High-Back Leather Manager's ChairWashington,31,22,-13
+Furniture,11,27,Washington,29,12,1,8,24,Novimex Swivel Fabric Task Chair,2,Chairs,120.784,150.98,Novimex Swivel Fabric Task ChairWashington,32,30,8
+Furniture,15,26,Alaska,31,10,1,10,43,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",5,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackAlaska",36,31,-7
+Furniture,11,68,Alaska,77,12,1,5,45,Longer-Life Soft White Bulbs,9,Furnishings,2.464,3.08,Longer-Life Soft White BulbsAlaska,83,74,38
+Furniture,8,58,California,63,18,1,9,38,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",5,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackCalifornia",62,57,24
+Furniture,9,0,California,2,17,1,9,39,Longer-Life Soft White Bulbs,2,Furnishings,2.464,3.08,Longer-Life Soft White BulbsCalifornia,2,0,-37
+Furniture,12,104,Colorado,106,10,1,5,37,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",2,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackColorado",113,111,76
+Furniture,10,44,Colorado,47,13,1,7,25,Longer-Life Soft White Bulbs,3,Furnishings,2.464,3.08,Longer-Life Soft White BulbsColorado,50,47,25
+Furniture,15,10,Florida,14,12,1,8,23,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",4,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackFlorida",21,17,-2
+Furniture,9,76,Florida,81,18,1,9,31,Longer-Life Soft White Bulbs,5,Furnishings,2.464,3.08,Longer-Life Soft White BulbsFlorida,81,76,50
+Furniture,9,22,Georgia,23,13,1,7,31,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",1,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackGeorgia",25,24,-6
+Furniture,9,29,Georgia,34,11,1,7,46,Longer-Life Soft White Bulbs,5,Furnishings,2.464,3.08,Longer-Life Soft White BulbsGeorgia,36,31,-10
+Furniture,9,40,Hawaii,45,17,1,10,44,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",5,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackHawaii",44,39,0
+Furniture,12,0,Hawaii,8,10,1,6,39,Longer-Life Soft White Bulbs,8,Furnishings,2.464,3.08,Longer-Life Soft White BulbsHawaii,14,6,-25
+Furniture,9,19,Kentucky,23,17,1,10,45,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",4,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackKentucky",22,18,-23
+Furniture,15,0,Kentucky,4,14,1,8,23,Longer-Life Soft White Bulbs,4,Furnishings,2.464,3.08,Longer-Life Soft White BulbsKentucky,11,7,-12
+Furniture,15,73,Michigan,75,13,1,9,49,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",2,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackMichigan",81,79,32
+Furniture,9,13,Michigan,23,17,1,6,29,Longer-Life Soft White Bulbs,10,Furnishings,2.464,3.08,Longer-Life Soft White BulbsMichigan,26,16,-3
+Furniture,8,13,Mississippi,17,11,1,9,45,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",4,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackMississippi",16,12,-29
+Furniture,9,52,Mississippi,55,10,1,10,21,Longer-Life Soft White Bulbs,3,Furnishings,2.464,3.08,Longer-Life Soft White BulbsMississippi,54,51,33
+Furniture,9,17,Nevada,18,14,1,6,20,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",1,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackNevada",21,20,1
+Furniture,11,51,Nevada,59,19,1,8,36,Longer-Life Soft White Bulbs,8,Furnishings,2.464,3.08,Longer-Life Soft White BulbsNevada,62,54,26
+Furniture,9,2,New Jersey,5,12,1,7,21,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",3,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackNew Jersey",7,4,-14
+Furniture,15,40,New Jersey,44,20,1,9,49,Longer-Life Soft White Bulbs,4,Furnishings,2.464,3.08,Longer-Life Soft White BulbsNew Jersey,50,46,1
+Furniture,8,30,New Mexico,37,18,1,5,35,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",7,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackNew Mexico",40,33,5
+Furniture,11,6,New Mexico,7,20,1,5,20,Longer-Life Soft White Bulbs,1,Furnishings,2.464,3.08,Longer-Life Soft White BulbsNew Mexico,13,12,-7
+Furniture,13,65,New York,69,11,1,5,41,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",4,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackNew York",77,73,36
+Furniture,9,0,New York,7,14,1,7,35,Longer-Life Soft White Bulbs,7,Furnishings,2.464,3.08,Longer-Life Soft White BulbsNew York,9,2,-26
+Furniture,11,0,Texas,8,13,1,5,28,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",8,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackTexas",14,6,-14
+Furniture,8,55,Texas,59,19,1,7,48,Longer-Life Soft White Bulbs,4,Furnishings,2.464,3.08,Longer-Life Soft White BulbsTexas,60,56,12
+Furniture,9,27,Washington,36,16,1,8,25,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",9,Furnishings,30.5472,38.184,"Electrix Architect's Clamp-On Swing Arm Lamp, BlackWashington",37,28,12
+Furniture,13,43,Washington,51,16,1,8,45,Longer-Life Soft White Bulbs,8,Furnishings,2.464,3.08,Longer-Life Soft White BulbsWashington,56,48,11
+Furniture,9,112,Alaska,118,11,1,7,36,Bevis 36 x 72 Conference Tables,6,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesAlaska,120,114,84
+Furniture,10,54,California,62,18,1,5,46,Bevis 36 x 72 Conference Tables,8,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesCalifornia,67,59,21
+Furniture,13,24,Colorado,32,20,1,8,30,Bevis 36 x 72 Conference Tables,8,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesColorado,37,29,7
+Furniture,9,42,Florida,47,19,1,9,23,Bevis 36 x 72 Conference Tables,5,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesFlorida,47,42,24
+Furniture,8,38,Georgia,40,20,1,5,30,Bevis 36 x 72 Conference Tables,2,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesGeorgia,43,41,13
+Furniture,14,27,Hawaii,33,17,1,8,39,Bevis 36 x 72 Conference Tables,6,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesHawaii,39,33,0
+Furniture,12,46,Kentucky,56,11,1,10,39,Bevis 36 x 72 Conference Tables,10,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesKentucky,58,48,19
+Furniture,14,64,Michigan,67,14,1,6,47,Bevis 36 x 72 Conference Tables,3,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesMichigan,75,72,28
+Furniture,8,39,Mississippi,49,14,1,9,30,Bevis 36 x 72 Conference Tables,10,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesMississippi,48,38,18
+Furniture,14,8,Nevada,12,14,1,8,34,Bevis 36 x 72 Conference Tables,4,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesNevada,18,14,-16
+Furniture,14,0,New Jersey,1,14,1,10,33,Bevis 36 x 72 Conference Tables,1,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesNew Jersey,5,4,-28
+Furniture,11,31,New Mexico,37,13,1,10,29,Bevis 36 x 72 Conference Tables,6,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesNew Mexico,38,32,9
+Furniture,12,64,New York,67,10,1,9,49,Bevis 36 x 72 Conference Tables,3,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesNew York,70,67,21
+Furniture,11,56,Texas,57,17,1,6,32,Bevis 36 x 72 Conference Tables,1,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesTexas,62,61,30
+Furniture,15,24,Washington,31,14,1,7,25,Bevis 36 x 72 Conference Tables,7,Tables,99.592,124.49,Bevis 36 x 72 Conference TablesWashington,39,32,14
+Office Supplies,11,11,Alaska,20,17,1,10,22,3M Office Air Cleaner,9,Appliances,20.784,25.98,3M Office Air CleanerAlaska,21,12,-1
+Office Supplies,8,70,Alaska,79,17,1,10,50,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,9,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomAlaska,77,68,27
+Office Supplies,10,4,Alaska,10,19,1,6,29,Staple holder,6,Appliances,9.576,11.97,Staple holderAlaska,14,8,-15
+Office Supplies,11,21,California,25,13,1,10,30,3M Office Air Cleaner,4,Appliances,20.784,25.98,3M Office Air CleanerCalifornia,26,22,-4
+Office Supplies,14,55,California,60,16,1,5,22,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,5,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomCalifornia,69,64,47
+Office Supplies,15,22,California,25,16,1,5,35,Staple holder,3,Appliances,9.576,11.97,Staple holderCalifornia,35,32,0
+Office Supplies,15,32,Colorado,38,19,1,10,37,3M Office Air Cleaner,6,Appliances,20.784,25.98,3M Office Air CleanerColorado,43,37,6
+Office Supplies,9,71,Colorado,81,15,1,7,31,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,10,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomColorado,83,73,52
+Office Supplies,10,12,Colorado,13,17,1,7,41,Staple holder,1,Appliances,9.576,11.97,Staple holderColorado,16,15,-25
+Office Supplies,9,0,Florida,4,12,1,9,23,3M Office Air Cleaner,4,Appliances,20.784,25.98,3M Office Air CleanerFlorida,4,0,-19
+Office Supplies,9,68,Florida,69,12,1,7,35,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,1,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomFlorida,71,70,36
+Office Supplies,12,39,Florida,48,13,1,8,35,Staple holder,9,Appliances,9.576,11.97,Staple holderFlorida,52,43,17
+Office Supplies,9,0,Georgia,8,14,1,5,33,3M Office Air Cleaner,8,Appliances,20.784,25.98,3M Office Air CleanerGeorgia,12,4,-21
+Office Supplies,13,0,Georgia,9,20,1,5,34,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,9,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomGeorgia,17,8,-17
+Office Supplies,11,44,Georgia,50,14,1,9,42,Staple holder,6,Appliances,9.576,11.97,Staple holderGeorgia,52,46,10
+Office Supplies,14,0,Hawaii,3,12,1,10,37,3M Office Air Cleaner,3,Appliances,20.784,25.98,3M Office Air CleanerHawaii,7,4,-30
+Office Supplies,15,5,Hawaii,7,13,1,8,48,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,2,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomHawaii,14,12,-34
+Office Supplies,11,14,Hawaii,23,13,1,7,44,Staple holder,9,Appliances,9.576,11.97,Staple holderHawaii,27,18,-17
+Office Supplies,9,0,Kentucky,10,18,1,9,44,3M Office Air Cleaner,10,Appliances,20.784,25.98,3M Office Air CleanerKentucky,10,0,-34
+Office Supplies,11,0,Kentucky,1,16,1,6,25,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,1,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomKentucky,6,5,-19
+Office Supplies,15,5,Kentucky,14,19,1,6,21,Staple holder,9,Appliances,9.576,11.97,Staple holderKentucky,23,14,2
+Office Supplies,8,0,Michigan,5,17,1,6,31,3M Office Air Cleaner,5,Appliances,20.784,25.98,3M Office Air CleanerMichigan,7,2,-24
+Office Supplies,15,33,Michigan,42,12,1,5,24,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,9,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomMichigan,52,43,28
+Office Supplies,11,26,Michigan,32,16,1,6,24,Staple holder,6,Appliances,9.576,11.97,Staple holderMichigan,37,31,13
+Office Supplies,10,0,Mississippi,10,10,1,9,49,3M Office Air Cleaner,10,Appliances,20.784,25.98,3M Office Air CleanerMississippi,11,1,-38
+Office Supplies,11,65,Mississippi,73,20,1,6,33,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,8,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomMississippi,78,70,45
+Office Supplies,14,16,Mississippi,25,18,1,6,30,Staple holder,9,Appliances,9.576,11.97,Staple holderMississippi,33,24,3
+Office Supplies,10,92,Nevada,96,19,1,6,22,3M Office Air Cleaner,4,Appliances,20.784,25.98,3M Office Air CleanerNevada,100,96,78
+Office Supplies,9,0,Nevada,1,15,1,8,22,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,1,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomNevada,2,1,-20
+Office Supplies,15,69,Nevada,78,12,1,7,31,Staple holder,9,Appliances,9.576,11.97,Staple holderNevada,86,77,55
+Office Supplies,10,44,New Jersey,46,13,1,5,37,3M Office Air Cleaner,2,Appliances,20.784,25.98,3M Office Air CleanerNew Jersey,51,49,14
+Office Supplies,9,45,New Jersey,48,18,1,5,44,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,3,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomNew Jersey,52,49,8
+Office Supplies,8,28,New Jersey,34,11,1,6,44,Staple holder,6,Appliances,9.576,11.97,Staple holderNew Jersey,36,30,-8
+Office Supplies,13,79,New Mexico,83,16,1,10,40,3M Office Air Cleaner,4,Appliances,20.784,25.98,3M Office Air CleanerNew Mexico,86,82,46
+Office Supplies,14,0,New Mexico,6,16,1,7,34,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,6,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomNew Mexico,13,7,-21
+Office Supplies,14,0,New Mexico,2,15,1,7,33,Staple holder,2,Appliances,9.576,11.97,Staple holderNew Mexico,9,7,-24
+Office Supplies,11,20,New York,22,20,1,8,33,3M Office Air Cleaner,2,Appliances,20.784,25.98,3M Office Air CleanerNew York,25,23,-8
+Office Supplies,11,35,New York,40,18,1,8,35,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,5,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomNew York,43,38,8
+Office Supplies,8,49,New York,57,12,1,7,49,Staple holder,8,Appliances,9.576,11.97,Staple holderNew York,58,50,9
+Office Supplies,13,24,Texas,34,11,1,9,30,3M Office Air Cleaner,10,Appliances,20.784,25.98,3M Office Air CleanerTexas,38,28,8
+Office Supplies,12,21,Texas,30,18,1,6,40,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,9,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomTexas,36,27,-4
+Office Supplies,9,13,Texas,15,10,1,5,28,Staple holder,2,Appliances,9.576,11.97,Staple holderTexas,19,17,-9
+Office Supplies,9,0,Washington,2,19,1,7,45,3M Office Air Cleaner,2,Appliances,20.784,25.98,3M Office Air CleanerWashington,4,2,-41
+Office Supplies,9,40,Washington,44,19,1,9,49,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,4,Appliances,88.8336,111.042,Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 RoomWashington,44,40,-5
+Office Supplies,9,14,Washington,22,16,1,7,40,Staple holder,8,Appliances,9.576,11.97,Staple holderWashington,24,16,-16
+Office Supplies,10,86,Alaska,92,12,1,6,43,Lumber Crayons,6,Art,6.304,7.88,Lumber CrayonsAlaska,96,90,53
+Office Supplies,11,28,Alaska,36,17,1,6,46,Prang Dustless Chalk Sticks,8,Art,1.344,1.68,Prang Dustless Chalk SticksAlaska,41,33,-5
+Office Supplies,10,52,California,58,12,1,8,50,Lumber Crayons,6,Art,6.304,7.88,Lumber CrayonsCalifornia,60,54,10
+Office Supplies,13,32,California,37,14,1,10,26,Prang Dustless Chalk Sticks,5,Art,1.344,1.68,Prang Dustless Chalk SticksCalifornia,40,35,14
+Office Supplies,9,22,Colorado,30,15,1,5,48,Lumber Crayons,8,Art,6.304,7.88,Lumber CrayonsColorado,34,26,-14
+Office Supplies,9,88,Colorado,92,10,1,10,26,Prang Dustless Chalk Sticks,4,Art,1.344,1.68,Prang Dustless Chalk SticksColorado,91,87,65
+Office Supplies,15,90,Florida,100,17,1,10,36,Lumber Crayons,10,Art,6.304,7.88,Lumber CrayonsFlorida,105,95,69
+Office Supplies,11,44,Florida,51,14,1,6,25,Prang Dustless Chalk Sticks,7,Art,1.344,1.68,Prang Dustless Chalk SticksFlorida,56,49,31
+Office Supplies,15,4,Georgia,7,11,1,6,30,Lumber Crayons,3,Art,6.304,7.88,Lumber CrayonsGeorgia,16,13,-14
+Office Supplies,15,31,Georgia,38,18,1,9,33,Prang Dustless Chalk Sticks,7,Art,1.344,1.68,Prang Dustless Chalk SticksGeorgia,44,37,11
+Office Supplies,10,22,Hawaii,28,15,1,8,38,Lumber Crayons,6,Art,6.304,7.88,Lumber CrayonsHawaii,30,24,-8
+Office Supplies,12,0,Hawaii,5,14,1,6,35,Prang Dustless Chalk Sticks,5,Art,1.344,1.68,Prang Dustless Chalk SticksHawaii,11,6,-24
+Office Supplies,14,40,Kentucky,46,20,1,6,41,Lumber Crayons,6,Art,6.304,7.88,Lumber CrayonsKentucky,54,48,13
+Office Supplies,8,62,Kentucky,70,20,1,6,40,Prang Dustless Chalk Sticks,8,Art,1.344,1.68,Prang Dustless Chalk SticksKentucky,72,64,32
+Office Supplies,14,127,Michigan,130,15,1,6,32,Lumber Crayons,3,Art,6.304,7.88,Lumber CrayonsMichigan,138,135,106
+Office Supplies,11,0,Michigan,5,10,1,5,45,Prang Dustless Chalk Sticks,5,Art,1.344,1.68,Prang Dustless Chalk SticksMichigan,11,6,-34
+Office Supplies,14,0,Mississippi,5,13,1,10,41,Lumber Crayons,5,Art,6.304,7.88,Lumber CrayonsMississippi,9,4,-32
+Office Supplies,8,0,Mississippi,5,16,1,10,45,Prang Dustless Chalk Sticks,5,Art,1.344,1.68,Prang Dustless Chalk SticksMississippi,3,-2,-42
+Office Supplies,12,24,Nevada,33,19,1,8,45,Lumber Crayons,9,Art,6.304,7.88,Lumber CrayonsNevada,37,28,-8
+Office Supplies,9,0,Nevada,6,19,1,10,34,Prang Dustless Chalk Sticks,6,Art,1.344,1.68,Prang Dustless Chalk SticksNevada,5,-1,-29
+Office Supplies,13,119,New Jersey,129,17,1,5,38,Lumber Crayons,10,Art,6.304,7.88,Lumber CrayonsNew Jersey,137,127,99
+Office Supplies,14,33,New Jersey,35,14,1,9,39,Prang Dustless Chalk Sticks,2,Art,1.344,1.68,Prang Dustless Chalk SticksNew Jersey,40,38,1
+Office Supplies,13,19,New Mexico,22,10,1,9,22,Lumber Crayons,3,Art,6.304,7.88,Lumber CrayonsNew Mexico,26,23,4
+Office Supplies,13,25,New Mexico,28,11,1,7,39,Prang Dustless Chalk Sticks,3,Art,1.344,1.68,Prang Dustless Chalk SticksNew Mexico,34,31,-5
+Office Supplies,13,26,New York,27,20,1,5,42,Lumber Crayons,1,Art,6.304,7.88,Lumber CrayonsNew York,35,34,-7
+Office Supplies,8,0,New York,4,10,1,5,20,Prang Dustless Chalk Sticks,4,Art,1.344,1.68,Prang Dustless Chalk SticksNew York,7,3,-13
+Office Supplies,15,0,Texas,1,15,1,8,44,Lumber Crayons,1,Art,6.304,7.88,Lumber CrayonsTexas,8,7,-36
+Office Supplies,13,31,Texas,33,13,1,6,36,Prang Dustless Chalk Sticks,2,Art,1.344,1.68,Prang Dustless Chalk SticksTexas,40,38,4
+Office Supplies,15,37,Washington,39,10,1,8,49,Lumber Crayons,2,Art,6.304,7.88,Lumber CrayonsWashington,46,44,-3
+Office Supplies,8,29,Washington,35,15,1,5,34,Prang Dustless Chalk Sticks,6,Art,1.344,1.68,Prang Dustless Chalk SticksWashington,38,32,4
+Office Supplies,15,0,Alaska,9,16,1,9,48,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsAlaska,15,6,-33
+Office Supplies,10,19,California,28,19,1,8,50,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsCalifornia,30,21,-20
+Office Supplies,8,37,Colorado,41,10,1,7,31,Avery Heavy-Duty EZD  Binder With Locking Rings,4,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsColorado,42,38,11
+Office Supplies,13,105,Florida,109,12,1,5,50,Avery Heavy-Duty EZD  Binder With Locking Rings,4,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsFlorida,117,113,67
+Office Supplies,10,33,Georgia,38,14,1,9,50,Avery Heavy-Duty EZD  Binder With Locking Rings,5,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsGeorgia,39,34,-11
+Office Supplies,10,0,Hawaii,4,14,1,7,33,Avery Heavy-Duty EZD  Binder With Locking Rings,4,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsHawaii,7,3,-26
+Office Supplies,8,6,Kentucky,13,15,1,5,42,Avery Heavy-Duty EZD  Binder With Locking Rings,7,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsKentucky,16,9,-26
+Office Supplies,14,30,Michigan,35,14,1,8,47,Avery Heavy-Duty EZD  Binder With Locking Rings,5,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsMichigan,41,36,-6
+Office Supplies,10,0,Mississippi,9,15,1,10,48,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsMississippi,9,0,-39
+Office Supplies,14,46,Nevada,55,15,1,8,44,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsNevada,61,52,17
+Office Supplies,12,28,New Jersey,37,15,1,8,37,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsNew Jersey,41,32,4
+Office Supplies,9,50,New Mexico,59,13,1,6,49,Avery Heavy-Duty EZD  Binder With Locking Rings,9,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsNew Mexico,62,53,13
+Office Supplies,10,49,New York,52,13,1,7,34,Avery Heavy-Duty EZD  Binder With Locking Rings,3,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsNew York,55,52,21
+Office Supplies,15,10,Texas,12,10,1,6,48,Avery Heavy-Duty EZD  Binder With Locking Rings,2,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsTexas,21,19,-27
+Office Supplies,13,31,Washington,36,14,1,5,42,Avery Heavy-Duty EZD  Binder With Locking Rings,5,Binders,4.464,5.58,Avery Heavy-Duty EZD  Binder With Locking RingsWashington,44,39,2
+Office Supplies,15,21,Alaska,24,20,1,10,25,Staples,3,Fasteners,1.9072,2.384,StaplesAlaska,29,26,4
+Office Supplies,10,32,California,41,11,1,8,39,Staples,9,Fasteners,1.9072,2.384,StaplesCalifornia,43,34,4
+Office Supplies,15,0,Colorado,6,20,1,8,31,Staples,6,Fasteners,1.9072,2.384,StaplesColorado,13,7,-18
+Office Supplies,10,16,Florida,22,13,1,8,33,Staples,6,Fasteners,1.9072,2.384,StaplesFlorida,24,18,-9
+Office Supplies,13,120,Georgia,130,16,1,5,25,Staples,10,Fasteners,1.9072,2.384,StaplesGeorgia,138,128,113
+Office Supplies,11,1,Hawaii,7,14,1,6,36,Staples,6,Fasteners,1.9072,2.384,StaplesHawaii,12,6,-24
+Office Supplies,14,3,Kentucky,8,19,1,10,44,Staples,5,Fasteners,1.9072,2.384,StaplesKentucky,12,7,-32
+Office Supplies,11,26,Michigan,28,12,1,9,28,Staples,2,Fasteners,1.9072,2.384,StaplesMichigan,30,28,2
+Office Supplies,15,27,Mississippi,28,16,1,5,22,Staples,1,Fasteners,1.9072,2.384,StaplesMississippi,38,37,16
+Office Supplies,14,2,Nevada,6,12,1,10,32,Staples,4,Fasteners,1.9072,2.384,StaplesNevada,10,6,-22
+Office Supplies,15,58,New Jersey,65,10,1,5,34,Staples,7,Fasteners,1.9072,2.384,StaplesNew Jersey,75,68,41
+Office Supplies,12,53,New Mexico,58,13,1,5,30,Staples,5,Fasteners,1.9072,2.384,StaplesNew Mexico,65,60,35
+Office Supplies,11,0,New York,2,10,1,7,26,Staples,2,Fasteners,1.9072,2.384,StaplesNew York,6,4,-20
+Office Supplies,12,16,Texas,23,17,1,5,29,Staples,7,Fasteners,1.9072,2.384,StaplesTexas,30,23,1
+Office Supplies,12,31,Washington,39,13,1,9,44,Staples,8,Fasteners,1.9072,2.384,StaplesWashington,42,34,-2
+Office Supplies,15,58,Alaska,59,18,1,6,47,Avery 485,1,Labels,10.024,12.53,Avery 485Alaska,68,67,21
+Office Supplies,9,64,California,73,15,1,5,27,Avery 485,9,Labels,10.024,12.53,Avery 485California,77,68,50
+Office Supplies,10,73,Colorado,81,17,1,10,34,Avery 485,8,Labels,10.024,12.53,Avery 485Colorado,81,73,47
+Office Supplies,15,0,Florida,8,12,1,9,41,Avery 485,8,Labels,10.024,12.53,Avery 485Florida,14,6,-27
+Office Supplies,11,0,Georgia,5,16,1,6,39,Avery 485,5,Labels,10.024,12.53,Avery 485Georgia,10,5,-29
+Office Supplies,12,13,Hawaii,14,11,1,5,44,Avery 485,1,Labels,10.024,12.53,Avery 485Hawaii,21,20,-23
+Office Supplies,14,39,Kentucky,49,15,1,5,26,Avery 485,10,Labels,10.024,12.53,Avery 485Kentucky,58,48,32
+Office Supplies,9,35,Michigan,45,17,1,8,35,Avery 485,10,Labels,10.024,12.53,Avery 485Michigan,46,36,11
+Office Supplies,11,76,Mississippi,82,19,1,10,41,Avery 485,6,Labels,10.024,12.53,Avery 485Mississippi,83,77,42
+Office Supplies,11,21,Nevada,31,10,1,7,32,Avery 485,10,Labels,10.024,12.53,Avery 485Nevada,35,25,3
+Office Supplies,12,0,New Jersey,7,13,1,5,45,Avery 485,7,Labels,10.024,12.53,Avery 485New Jersey,14,7,-31
+Office Supplies,8,0,New Mexico,6,10,1,10,38,Avery 485,6,Labels,10.024,12.53,Avery 485New Mexico,4,-2,-34
+Office Supplies,9,63,New York,64,10,1,7,32,Avery 485,1,Labels,10.024,12.53,Avery 485New York,66,65,34
+Office Supplies,15,0,Texas,8,17,1,9,37,Avery 485,8,Labels,10.024,12.53,Avery 485Texas,14,6,-23
+Office Supplies,8,51,Washington,58,14,1,8,33,Avery 485,7,Labels,10.024,12.53,Avery 485Washington,58,51,25
+Office Supplies,11,75,Alaska,78,18,1,6,23,Xerox 232,3,Paper,5.184,6.48,Xerox 232Alaska,83,80,60
+Office Supplies,12,40,California,48,14,1,5,22,Xerox 232,8,Paper,5.184,6.48,Xerox 232California,55,47,33
+Office Supplies,8,26,Colorado,27,17,1,7,50,Xerox 232,1,Paper,5.184,6.48,Xerox 232Colorado,28,27,-22
+Office Supplies,10,28,Florida,33,16,1,5,41,Xerox 232,5,Paper,5.184,6.48,Xerox 232Florida,38,33,-3
+Office Supplies,13,36,Georgia,38,12,1,6,22,Xerox 232,2,Paper,5.184,6.48,Xerox 232Georgia,45,43,23
+Office Supplies,10,14,Hawaii,15,19,1,10,23,Xerox 232,1,Paper,5.184,6.48,Xerox 232Hawaii,15,14,-8
+Office Supplies,15,71,Kentucky,81,15,1,10,30,Xerox 232,10,Paper,5.184,6.48,Xerox 232Kentucky,86,76,56
+Office Supplies,13,0,Michigan,8,17,1,10,31,Xerox 232,8,Paper,5.184,6.48,Xerox 232Michigan,11,3,-20
+Office Supplies,13,39,Mississippi,41,12,1,8,48,Xerox 232,2,Paper,5.184,6.48,Xerox 232Mississippi,46,44,-2
+Office Supplies,13,39,Nevada,48,17,1,10,50,Xerox 232,9,Paper,5.184,6.48,Xerox 232Nevada,51,42,1
+Office Supplies,15,48,New Jersey,50,19,1,7,29,Xerox 232,2,Paper,5.184,6.48,Xerox 232New Jersey,58,56,29
+Office Supplies,8,3,New Mexico,8,19,1,9,47,Xerox 232,5,Paper,5.184,6.48,Xerox 232New Mexico,7,2,-40
+Office Supplies,8,17,New York,22,19,1,6,37,Xerox 232,5,Paper,5.184,6.48,Xerox 232New York,24,19,-13
+Office Supplies,14,9,Texas,11,14,1,10,27,Xerox 232,2,Paper,5.184,6.48,Xerox 232Texas,15,13,-12
+Office Supplies,9,62,Washington,63,13,1,8,30,Xerox 232,1,Paper,5.184,6.48,Xerox 232Washington,64,63,34
+Technology,13,40,Alaska,41,11,1,9,48,Logitech Wireless Gaming Headset G930,1,Accessories,20,25,Logitech Wireless Gaming Headset G930Alaska,45,44,-3
+Technology,12,35,Alaska,38,17,1,8,27,Microsoft Arc Touch Mouse,3,Accessories,18,20,Microsoft Arc Touch MouseAlaska,42,39,15
+Technology,10,66,California,74,10,1,9,28,Logitech Wireless Gaming Headset G930,8,Accessories,20,25,Logitech Wireless Gaming Headset G930California,75,67,47
+Technology,11,42,California,43,14,1,5,47,Microsoft Arc Touch Mouse,1,Accessories,18,20,Microsoft Arc Touch MouseCalifornia,49,48,2
+Technology,15,26,Colorado,36,11,1,9,32,Logitech Wireless Gaming Headset G930,10,Accessories,20,25,Logitech Wireless Gaming Headset G930Colorado,42,32,10
+Technology,8,1,Colorado,2,16,1,9,38,Microsoft Arc Touch Mouse,1,Accessories,18,20,Microsoft Arc Touch MouseColorado,1,0,-37
+Technology,15,0,Florida,8,11,1,10,39,Logitech Wireless Gaming Headset G930,8,Accessories,20,25,Logitech Wireless Gaming Headset G930Florida,13,5,-26
+Technology,10,33,Florida,37,12,1,5,37,Microsoft Arc Touch Mouse,4,Accessories,18,20,Microsoft Arc Touch MouseFlorida,42,38,5
+Technology,9,136,Georgia,138,20,1,5,21,Logitech Wireless Gaming Headset G930,2,Accessories,20,25,Logitech Wireless Gaming Headset G930Georgia,142,140,121
+Technology,11,0,Georgia,7,11,1,7,39,Microsoft Arc Touch Mouse,7,Accessories,18,20,Microsoft Arc Touch MouseGeorgia,11,4,-28
+Technology,15,36,Hawaii,44,20,1,7,42,Logitech Wireless Gaming Headset G930,8,Accessories,20,25,Logitech Wireless Gaming Headset G930Hawaii,52,44,10
+Technology,15,27,Hawaii,37,15,1,5,34,Microsoft Arc Touch Mouse,10,Accessories,18,20,Microsoft Arc Touch MouseHawaii,47,37,13
+Technology,14,66,Kentucky,71,18,1,10,25,Logitech Wireless Gaming Headset G930,5,Accessories,20,25,Logitech Wireless Gaming Headset G930Kentucky,75,70,50
+Technology,14,64,Kentucky,66,14,1,6,23,Microsoft Arc Touch Mouse,2,Accessories,18,20,Microsoft Arc Touch MouseKentucky,74,72,51
+Technology,15,44,Michigan,45,14,1,9,24,Logitech Wireless Gaming Headset G930,1,Accessories,20,25,Logitech Wireless Gaming Headset G930Michigan,51,50,27
+Technology,14,24,Michigan,34,10,1,8,33,Microsoft Arc Touch Mouse,10,Accessories,18,20,Microsoft Arc Touch MouseMichigan,40,30,7
+Technology,10,0,Mississippi,10,17,1,7,42,Logitech Wireless Gaming Headset G930,10,Accessories,20,25,Logitech Wireless Gaming Headset G930Mississippi,13,3,-29
+Technology,13,28,Mississippi,30,15,1,10,40,Microsoft Arc Touch Mouse,2,Accessories,18,20,Microsoft Arc Touch MouseMississippi,33,31,-7
+Technology,14,58,Nevada,63,16,1,6,29,Logitech Wireless Gaming Headset G930,5,Accessories,20,25,Logitech Wireless Gaming Headset G930Nevada,71,66,42
+Technology,12,13,Nevada,20,12,1,7,27,Microsoft Arc Touch Mouse,7,Accessories,18,20,Microsoft Arc Touch MouseNevada,25,18,-2
+Technology,8,0,New Jersey,8,12,1,10,27,Logitech Wireless Gaming Headset G930,8,Accessories,20,25,Logitech Wireless Gaming Headset G930New Jersey,6,-2,-21
+Technology,8,37,New Jersey,42,16,1,6,48,Microsoft Arc Touch Mouse,5,Accessories,18,20,Microsoft Arc Touch MouseNew Jersey,44,39,-4
+Technology,8,30,New Mexico,36,10,1,5,31,Logitech Wireless Gaming Headset G930,6,Accessories,20,25,Logitech Wireless Gaming Headset G930New Mexico,39,33,8
+Technology,15,107,New Mexico,110,16,1,7,30,Microsoft Arc Touch Mouse,3,Accessories,18,20,Microsoft Arc Touch MouseNew Mexico,118,115,88
+Technology,15,30,New York,33,16,1,10,38,Logitech Wireless Gaming Headset G930,3,Accessories,20,25,Logitech Wireless Gaming Headset G930New York,38,35,0
+Technology,13,64,New York,73,20,1,5,21,Microsoft Arc Touch Mouse,9,Accessories,18,20,Microsoft Arc Touch MouseNew York,81,72,60
+Technology,15,19,Texas,23,15,1,9,49,Logitech Wireless Gaming Headset G930,4,Accessories,20,25,Logitech Wireless Gaming Headset G930Texas,29,25,-20
+Technology,9,4,Texas,11,16,1,5,40,Microsoft Arc Touch Mouse,7,Accessories,18,20,Microsoft Arc Touch MouseTexas,15,8,-25
+Technology,11,8,Washington,17,11,1,7,39,Logitech Wireless Gaming Headset G930,9,Accessories,20,25,Logitech Wireless Gaming Headset G930Washington,21,12,-18
+Technology,11,38,Washington,44,14,1,9,31,Microsoft Arc Touch Mouse,6,Accessories,18,20,Microsoft Arc Touch MouseWashington,46,40,15
+Technology,11,22,Alaska,32,16,1,8,28,Canon PC940 Copier,10,Copiers,359.992,449.99,Canon PC940 CopierAlaska,35,25,7
+Technology,13,12,California,18,15,1,8,45,Canon PC940 Copier,6,Copiers,359.992,449.99,Canon PC940 CopierCalifornia,23,17,-22
+Technology,11,4,Colorado,8,10,1,9,40,Canon PC940 Copier,4,Copiers,359.992,449.99,Canon PC940 CopierColorado,10,6,-30
+Technology,15,6,Florida,8,12,1,9,23,Canon PC940 Copier,2,Copiers,359.992,449.99,Canon PC940 CopierFlorida,14,12,-9
+Technology,9,0,Georgia,2,17,1,5,32,Canon PC940 Copier,2,Copiers,359.992,449.99,Canon PC940 CopierGeorgia,6,4,-26
+Technology,13,0,Hawaii,1,16,1,7,23,Canon PC940 Copier,1,Copiers,359.992,449.99,Canon PC940 CopierHawaii,7,6,-16
+Technology,9,13,Kentucky,23,17,1,6,35,Canon PC940 Copier,10,Copiers,359.992,449.99,Canon PC940 CopierKentucky,26,16,-9
+Technology,14,8,Michigan,13,12,1,7,22,Canon PC940 Copier,5,Copiers,359.992,449.99,Canon PC940 CopierMichigan,20,15,-2
+Technology,13,76,Mississippi,80,13,1,10,44,Canon PC940 Copier,4,Copiers,359.992,449.99,Canon PC940 CopierMississippi,83,79,39
+Technology,10,29,Nevada,36,12,1,8,44,Canon PC940 Copier,7,Copiers,359.992,449.99,Canon PC940 CopierNevada,38,31,-6
+Technology,9,0,New Jersey,6,17,1,6,41,Canon PC940 Copier,6,Copiers,359.992,449.99,Canon PC940 CopierNew Jersey,9,3,-32
+Technology,12,97,New Mexico,105,19,1,9,41,Canon PC940 Copier,8,Copiers,359.992,449.99,Canon PC940 CopierNew Mexico,108,100,67
+Technology,10,0,New York,2,19,1,9,39,Canon PC940 Copier,2,Copiers,359.992,449.99,Canon PC940 CopierNew York,3,1,-36
+Technology,14,25,Texas,27,18,1,9,50,Canon PC940 Copier,2,Copiers,359.992,449.99,Canon PC940 CopierTexas,32,30,-18
+Technology,15,47,Washington,54,15,1,7,26,Canon PC940 Copier,7,Copiers,359.992,449.99,Canon PC940 CopierWashington,62,55,36
+Technology,10,10,Alaska,15,19,1,10,40,Cisco SPA525G2 5-Line IP Phone,5,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneAlaska,15,10,-25
+Technology,14,68,California,73,14,1,9,46,Cisco SPA525G2 5-Line IP Phone,5,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneCalifornia,78,73,32
+Technology,8,16,Colorado,20,20,1,9,22,Cisco SPA525G2 5-Line IP Phone,4,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneColorado,19,15,-3
+Technology,13,54,Florida,59,10,1,7,40,Cisco SPA525G2 5-Line IP Phone,5,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneFlorida,65,60,25
+Technology,13,29,Georgia,31,12,1,10,29,Cisco SPA525G2 5-Line IP Phone,2,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneGeorgia,34,32,5
+Technology,13,46,Hawaii,52,13,1,6,42,Cisco SPA525G2 5-Line IP Phone,6,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneHawaii,59,53,17
+Technology,10,68,Kentucky,76,14,1,6,24,Cisco SPA525G2 5-Line IP Phone,8,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneKentucky,80,72,56
+Technology,10,2,Michigan,10,17,1,7,24,Cisco SPA525G2 5-Line IP Phone,8,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneMichigan,13,5,-11
+Technology,14,0,Mississippi,5,18,1,9,38,Cisco SPA525G2 5-Line IP Phone,5,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneMississippi,10,5,-28
+Technology,9,81,Nevada,85,18,1,7,24,Cisco SPA525G2 5-Line IP Phone,4,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneNevada,87,83,63
+Technology,12,0,New Jersey,10,19,1,9,49,Cisco SPA525G2 5-Line IP Phone,10,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneNew Jersey,13,3,-36
+Technology,15,45,New Mexico,48,12,1,5,45,Cisco SPA525G2 5-Line IP Phone,3,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneNew Mexico,58,55,13
+Technology,8,69,New York,72,13,1,5,29,Cisco SPA525G2 5-Line IP Phone,3,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneNew York,75,72,46
+Technology,12,34,Texas,38,18,1,9,20,Cisco SPA525G2 5-Line IP Phone,4,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneTexas,41,37,21
+Technology,8,38,Washington,46,16,1,9,27,Cisco SPA525G2 5-Line IP Phone,8,Machines,137.992,172.49,Cisco SPA525G2 5-Line IP PhoneWashington,45,37,18
+Technology,8,0,Alaska,9,14,1,9,42,Panasonic Kx-TS550,9,Phones,29.4336,36.792,Panasonic Kx-TS550Alaska,8,-1,-34
+Technology,8,25,California,31,12,1,5,49,Panasonic Kx-TS550,6,Phones,29.4336,36.792,Panasonic Kx-TS550California,34,28,-15
+Technology,9,29,Colorado,34,13,1,9,21,Panasonic Kx-TS550,5,Phones,29.4336,36.792,Panasonic Kx-TS550Colorado,34,29,13
+Technology,11,53,Florida,62,16,1,5,36,Panasonic Kx-TS550,9,Phones,29.4336,36.792,Panasonic Kx-TS550Florida,68,59,32
+Technology,9,94,Georgia,96,18,1,5,21,Panasonic Kx-TS550,2,Phones,29.4336,36.792,Panasonic Kx-TS550Georgia,100,98,79
+Technology,11,44,Hawaii,50,12,1,9,41,Panasonic Kx-TS550,6,Phones,29.4336,36.792,Panasonic Kx-TS550Hawaii,52,46,11
+Technology,11,33,Kentucky,37,16,1,5,27,Panasonic Kx-TS550,4,Phones,29.4336,36.792,Panasonic Kx-TS550Kentucky,43,39,16
+Technology,12,48,Michigan,53,18,1,5,40,Panasonic Kx-TS550,5,Phones,29.4336,36.792,Panasonic Kx-TS550Michigan,60,55,20
+Technology,12,0,Mississippi,7,13,1,8,34,Panasonic Kx-TS550,7,Phones,29.4336,36.792,Panasonic Kx-TS550Mississippi,11,4,-23
+Technology,15,44,Nevada,54,12,1,8,38,Panasonic Kx-TS550,10,Phones,29.4336,36.792,Panasonic Kx-TS550Nevada,61,51,23
+Technology,10,0,New Jersey,10,12,1,5,34,Panasonic Kx-TS550,10,Phones,29.4336,36.792,Panasonic Kx-TS550New Jersey,15,5,-19
+Technology,13,35,New Mexico,37,13,1,6,35,Panasonic Kx-TS550,2,Phones,29.4336,36.792,Panasonic Kx-TS550New Mexico,44,42,9
+Technology,8,65,New York,73,14,1,5,30,Panasonic Kx-TS550,8,Phones,29.4336,36.792,Panasonic Kx-TS550New York,76,68,46
+Technology,15,41,Texas,47,18,1,9,44,Panasonic Kx-TS550,6,Phones,29.4336,36.792,Panasonic Kx-TS550Texas,53,47,9
+Technology,11,56,Washington,64,12,1,10,36,Panasonic Kx-TS550,8,Phones,29.4336,36.792,Panasonic Kx-TS550Washington,65,57,29
