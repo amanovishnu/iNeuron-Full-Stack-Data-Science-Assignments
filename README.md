@@ -16,3 +16,14 @@
 - [Tableau Online ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau%20Online)
 - [Tableau Projects ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau%20Projects)
 
+### 3. Machine Learning
+- [Machine Learning ***(00/24)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Assignment)
+- [Machine Learning Practical ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Practical%20Assignment)
+
+### 4. DL-CV-NLP
+- [Computer Vision Assignment ***(00/12)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/Computer%20Vision%20Assignment)
+- [DL And CV Practical Assignment ***(00/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/DL%20And%20CV%20Practical%20Assignment)
+- [Deep Learning Assignment ***(00/16)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/Deep%20Learning%20Assignment)
+- [NLP Assignment ***(00/07)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/NLP%20Assignment)
+
+
