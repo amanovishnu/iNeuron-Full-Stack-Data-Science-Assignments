@@ -3,7 +3,7 @@
 ### 1. Python Assignments
 - [Python Basic ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Basic%20Assignment)
 - [Python Programming Basic ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Programming%20Basic%20Assignment)
-- [Python Advance ***(02/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Advance%20Assignment)
+- [Python Advance ***(15/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Advance%20Assignment)
 - [Python Advance Programming ***(24/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Advance%20Programming%20Assignment)
 
 
