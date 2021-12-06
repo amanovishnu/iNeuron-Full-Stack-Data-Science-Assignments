@@ -18,7 +18,7 @@
 - [Tableau Projects ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau%20Projects)
 
 ### 3. Machine Learning
-- [Machine Learning ***(00/24)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Assignment)
+- [Machine Learning ***(04/24)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Assignment)
 - [Machine Learning Practical ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Practical%20Assignment)
 
 ### 4. DL-CV-NLP
